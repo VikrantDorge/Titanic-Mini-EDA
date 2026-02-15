@@ -1,0 +1,15 @@
+# Titanic-Mini-EDA
+Mini Exploratory Data Analysis on Titanic Dataset using Python
+## Dataset
+- Titanic Dataset (train.csv)
+
+## Libraries Used
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+## Key Insights
+- Survival rate higher for females
+- 1st class passengers had higher survival probability
+- Age and Fare influenced survival
